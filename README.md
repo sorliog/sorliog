@@ -8,12 +8,12 @@
 #### Who am I?
 I am a dynamic and ambitious software developer, driven by a passion for innovation and problem-solving. Given my experience in Java, Python, and Microsoft Azure, I excel in research and software development, consistently delivering innovative solutions.
 
-Currently, I am developing system-agnostic clinical decision support systems at Clemson University.
+Currently, I am maintaining the [NAPDI Database](https://repo.napdi.org/) for  Department of Biomedical Informatics at Pittsburg University and developing [system-agnostic clinical decision support systems](https://cdss4pcp.com/#/project/CDSS%2520Modules%2520for%2520OpenMRS%2520and%2520OpenEMR) at Clemson University.
 
 
 ### Skills
 <!--
-I am a software developer, based in Upstate South Carolina. I have application development experience with Java, Spring Boot, .NET, C#, Python and C++. My interests include desktop application development, web development, low-level security and 3D graphics.
+I am a software developer, based in Upstate South Carolina. I have application development experience with Java, Spring Boot, AWS, Python and C++. My interests include desktop application development, web development, low-level security and 3D graphics.
 -->
 
 [![Java](https://img.shields.io/badge/Java-F89917?style=for-the-badge&logo=java&logoColor=white)](#)
@@ -25,6 +25,9 @@ I am a software developer, based in Upstate South Carolina. I have application d
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![SQL](https://img.shields.io/badge/SQL-2EA7E7?style=for-the-badge&logo=sql&logoColor=black)](#)
 
+### Related Links
+[Personal Github](https://github.com/DrSmCraft)
+[Portfolio](https://samuil-orlioglu.com/)
 
 
 <!--
